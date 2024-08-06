@@ -151,7 +151,7 @@
 .parallax-background{
     width:100%;
     height: 800px;
-    background-image: url('images/star_field1C.png');
+    /* background-image: url('images/star_field1C.png'); */
     background-size: 400px auto;
     background-repeat: repeat;
     /* border: 1px solid lime; */
